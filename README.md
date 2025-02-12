@@ -36,7 +36,7 @@ More information can be found at [BUILD.md](BUILD.md)
 
 ## Documentation
 
-Documentation can be found [here](morpheus-org.github.io/morpheus).
+Documentation can be found [here](https://morpheus-org.github.io/morpheus/docs/html/index.html).
 
 ### Supported Formats
 
